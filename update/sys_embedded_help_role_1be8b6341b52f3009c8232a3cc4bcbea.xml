@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_354398_git_pract.sampletable_user" name="x_354398_git_pract.sampletable_user">dbe8b6341b52f3009c8232a3cc4bcbe7</role>
+        <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-25 08:31:59</sys_created_on>
